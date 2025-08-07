@@ -1,0 +1,22 @@
+=== Terraform Init ===
+$ terraform init
+[paste output here]
+
+=== Terraform Plan ===
+$ terraform plan
+[paste output here]
+
+=== Terraform Apply ===
+$ terraform apply
+[paste output here]
+
+=== Verification Commands ===
+$ docker ps
+[paste output here]
+
+$ terraform state list
+[paste output here]
+
+=== Terraform Destroy ===
+$ terraform destroy
+[paste output here]
